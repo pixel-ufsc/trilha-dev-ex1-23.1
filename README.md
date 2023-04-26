@@ -6,7 +6,7 @@ Para isso, você irá baixar este repositório para sua máquina local, criar um
 
 ### Flow básico
 1. Para baixar o repositório você deve criar um *clone*
-   - `git clonehttps://github.com/pixel-ufsc/trilha-dev-ex1-23.1.git`
+   - `git clone https://github.com/pixel-ufsc/trilha-dev-ex1-23.1.git`
    - ou
    - `git clone git@github.com:pixel-ufsc/trilha-dev-ex1-23.1`
    - ou
